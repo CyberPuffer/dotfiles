@@ -1,0 +1,61 @@
+{
+    // 联网功能
+    "telemetry.telemetryLevel": "off",
+    "update.mode": "none",
+    "update.showReleaseNotes": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "npm.fetchOnlinePackageInfo": false,
+
+    // 特性
+    "window.autoDetectColorScheme": true,
+    "window.systemColorTheme": "auto",
+    "window.titleBarStyle": "custom",
+    "window.doubleClickIconToClose": true,
+    "window.commandCenter": true,
+
+    "editor.minimap.autohide": true,
+    "editor.minimap.enabled": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.insertSpaces": false,
+    "editor.inlineSuggest.enabled": false,
+	  "editor.acceptSuggestionOnEnter": "off",
+
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.enabled": false,
+    "explorer.confirmDelete": false,
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "extensions.ignoreRecommendations": true,
+
+    "files.hotExit": "off",
+    "files.insertFinalNewline": false,
+    "files.exclude": {"**/.DS_Store": false,"**/.git": false,"**/.hg": false,"**/.svn": false,"**/CVS": false,"**/Thumbs.db": false},
+
+    // 历史记录
+    "workbench.commandPalette.history": 0,
+  	"workbench.localHistory.enabled": false,
+    "terminal.integrated.shellIntegration.history": 0,
+
+    // 终端
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+
+    // Git
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+
+    // Python
+    "python.analysis.autoImportCompletions": false,
+
+		// Copilot
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+
+		// Web
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "files.autoSave": "off"
+}
