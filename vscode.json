@@ -23,7 +23,7 @@
     "editor.unicodeHighlight.nonBasicASCII": false,
     "editor.insertSpaces": false,
     "editor.inlineSuggest.enabled": false,
-	  "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnEnter": "off",
 
     "workbench.startupEditor": "none",
     "security.workspace.trust.enabled": false,
@@ -37,7 +37,7 @@
 
     // 历史记录
     "workbench.commandPalette.history": 0,
-  	"workbench.localHistory.enabled": false,
+    "workbench.localHistory.enabled": false,
     "terminal.integrated.shellIntegration.history": 0,
 
     // 终端
@@ -52,10 +52,10 @@
     // Python
     "python.analysis.autoImportCompletions": false,
 
-		// Copilot
+    // Copilot
     "chat.editing.alwaysSaveWithGeneratedChanges": true,
 
-		// Web
+    // Web
     "terminal.integrated.sendKeybindingsToShell": true,
     "files.autoSave": "off"
 }
